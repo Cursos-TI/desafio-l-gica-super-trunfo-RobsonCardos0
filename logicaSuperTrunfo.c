@@ -115,7 +115,7 @@ int main() {
             printf("Opção inválida! Por favor, escolha um número de 1 a 5.\n");
     }
 
-    printf("===========================================\n");
+    printf("==========================================\n");
 
     return 0;
 }
